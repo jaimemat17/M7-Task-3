@@ -1,0 +1,22 @@
+{
+  "name": "wolrdint",
+  "version": "1.0.0",
+  "description": "In this sample we will draw a world map divided by country and display a tip when the user hovers over a country.",
+  "main": "main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimemat17/M7-Task-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaimemat17/M7-Task-3/issues"
+  },
+  "homepage": "https://github.com/jaimemat17/M7-Task-3#readme"
+}
